@@ -1252,7 +1252,8 @@ h1, h2, h3, h4, h5, h6 {
           font-size: 35px;
           line-height: 46px; } }
     .banner-area .banner-content p {
-      margin: 0; }
+      margin: 0;
+      color: rgb(34, 177, 117); }
   @media (max-width: 991px) {
     .banner-area .banner-img {
       display: none; } }
