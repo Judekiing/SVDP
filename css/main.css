@@ -1243,6 +1243,8 @@ h1, h2, h3, h4, h5, h6 {
       .banner-area .banner-content {
         padding-left: 0; } }
     .banner-area .banner-content h1 {
+      background-color: rgba(117, 190, 218, 0.5); ;
+      color: white;
       font-size: 60px;
       line-height: 66px;
       font-weight: 700;
