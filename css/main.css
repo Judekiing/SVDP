@@ -4131,7 +4131,7 @@ label {
         position: absolute;
         right: 0px;
         top: 14px;
-        @icnlude transition; }
+        @include transition; }
         .review_item .media .media-body .reply_btn:hover {
           background: #ffba00;
           border-color: #ffba00;
