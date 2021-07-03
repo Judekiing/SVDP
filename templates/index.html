@@ -1,4 +1,6 @@
 {% extends 'base.html' %}
+{% load static %}
+
 
 	{% block content %}
 
@@ -56,7 +58,7 @@
 			
 			<div class="row">
 				<div class="col-md-3">
-					<img src="img/elements/angel.jpg" alt="" class="img-fluid">
+					<img src="{% static 'img/elements/angel.jpg' %}" alt="" class="img-fluid">
 				</div>
 				<div class="col-md-9 mt-sm-20">
 					<h3 class="mb-30" style="text-align: center;" >Welcome to St. Vincent de Paul</h3>
@@ -81,7 +83,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<a href="mass_times.html"><img src="img/features/f-icon1.png" alt=""></a>
+							<a href="mass_times.html"><img src="{% static 'img/features/f-icon1.png' %}" alt=""></a>
 						</div>
 						<a href="mass_times.html"><h6>Mass Times</h6></a>
 						<p></p>
@@ -91,7 +93,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon2.png" alt="">
+							<img src="{% static 'img/features/f-icon2.png' %}" alt="">
 						</div>
 						<h6>Weekly buletin</h6>
 						<p></p>
@@ -101,7 +103,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="img/features/f-icon3.png" alt="">
+							<img src="{% static 'img/features/f-icon3.png' %}" alt="">
 						</div>
 						<h6>Office hours</h6>
 						<p></p>
@@ -111,7 +113,7 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<a href="daily_reading.html"><img src="img/features/f-icon4.png" alt=""></a>
+							<a href="daily_reading.html"><img src="{% static 'img/features/f-icon4.png' %}" alt=""></a>
 						</div>
 						<a href="daily_reading.html"><h6>Daily Readings</h6></a>
 						<p></p>
@@ -132,8 +134,8 @@
 						<div class="col-lg-4 col-md-4">
 							<div class="single-deal">
 								<div class="overlay"></div>
-								<img class="img-fluid w-100" src="img/category/altar.jpg" alt="">
-								<a href="img/category/altar.jpg" class="img-pop-up" target="_blank">
+								<img class="img-fluid w-100" src="{% static 'img/category/altar.jpg' %}" alt="">
+								<a href="{% static 'img/category/altar.jpg' %}" class="img-pop-up" target="_blank">
 									<div class="deal-details">
 										<h6 class="deal-title">Parish</h6>
 									</div>
@@ -143,8 +145,8 @@
 						<div class="col-lg-4 col-md-4">
 							<div class="single-deal">
 								<div class="overlay"></div>
-								<img class="img-fluid w-100" src="img/category/altar.jpg" alt="">
-								<a href="img/category/altar.jpg" class="img-pop-up" target="_blank">
+								<img class="img-fluid w-100" src="{% static 'img/category/altar' %}.jpg" alt="">
+								<a href="{% static 'img/category/altar.jpg' %}" class="img-pop-up" target="_blank">
 									<div class="deal-details">
 										<h6 class="deal-title">Mass Center</h6>
 									</div>
@@ -154,8 +156,8 @@
 						<div class="col-lg-4 col-md-4">
 							<div class="single-deal">
 								<div class="overlay"></div>
-								<img class="img-fluid w-100" src="img/category/history.jpg" alt="">
-								<a href="img/category/history.PNG" class="img-pop-up" target="_blank">
+								<img class="img-fluid w-100" src="{% static 'img/category/history.jpg' %}" alt="">
+								<a href="{% static 'img/category/history.PNG' %}" class="img-pop-up" target="_blank">
 									<div class="deal-details">
 										<h6 class="deal-title">History</h6>
 									</div>
@@ -254,13 +256,13 @@
 		<div class="container">
 			<div class="row">
 				<a class="col single-img" href="society.html">
-					<img class="img-fluid d-block mx-auto" src="img/brand/1.png" alt="">
+					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/1.png' %}" alt="">
 				</a>
 				<a class="col single-img" href="society.html">
-					<img class="img-fluid d-block mx-auto" src="img/brand/2.png" alt="">
+					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/2.png' %}" alt="">
 				</a>
 				<a class="col single-img" href="society.html">
-					<img class="img-fluid d-block mx-auto" src="img/brand/3.png" alt="">
+					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/3.png' %}" alt="">
 				</a>
 				
 			</div>
@@ -285,7 +287,7 @@
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw1.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw1.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Baptism</a>
 									<div class="price">
@@ -297,7 +299,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw2.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw2.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Confessions</a>
 									<div class="price">
@@ -309,7 +311,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw3.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw3.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Adoration</a>
 									<div class="price">
@@ -321,7 +323,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw4.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw4.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Prayer of the Needy</a>
 									<div class="price">
@@ -333,7 +335,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw5.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw5.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Benediction</a>
 									<div class="price">
@@ -345,7 +347,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6 mb-20">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw6.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw6.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Marriage courses</a>
 									<div class="price">
@@ -357,7 +359,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw7.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw7.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Catechism classes</a>
 									<div class="price">
@@ -369,7 +371,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw8.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw8.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Liturgical Practice</a>
 									<div class="price">
@@ -381,7 +383,7 @@
 						</div>
 						<div class="col-lg-4 col-md-4 col-sm-6">
 							<div class="single-related-product d-flex">
-								<a href="#"><img src="img/activities/atw9.jpg" alt=""></a>
+								<a href="#"><img src="{% static 'img/activities/atw9.jpg' %}" alt=""></a>
 								<div class="desc">
 									<a href="#" class="title">Stations of the cross</a>
 									<div class="price">
@@ -396,7 +398,7 @@
 				<div class="col-lg-3">
 					<div class="ctg-right">
 						<a href="#" target="_blank">
-							<img class="img-fluid d-block mx-auto" src="img/category/c5.jpg" alt="">
+							<img class="img-fluid d-block mx-auto" src="{% static 'img/category/c5.jpg' %}" alt="">
 						</a>
 					</div>
 				</div>
@@ -416,7 +418,7 @@
 						<table>
 							<tr>
 								<td>
-									Rev. Fr. Ugbaja Jacob 
+									Rev. Fr.  
 								</td>
 								<td>
 									 (Parish Priest)
@@ -424,7 +426,7 @@
 							</tr>
 							<tr>
 								<td>
-									Rev. Fr. Anthony Ngwaba 
+									Rev. Fr.  
 								</td>
 								<td>
 									 (Parochial Vicar)
@@ -432,7 +434,7 @@
 							</tr>
 							<tr>
 								<td>
-									Rev. Fr. Kelvin 
+									Rev.  
 								</td>
 								<td>
 									 (Parochial Vicar)
@@ -501,7 +503,6 @@
 						</ul>
 					</div>
 				</div> -->
-	{% endblock content %}
 			
 				<div class="col-lg-2 col-md-6 col-sm-6">
 					<div class="single-footer-widget">
@@ -525,22 +526,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 		</div>
 	</footer>
 	<!-- End footer Area -->
-
-	<script src="js/vendor/jquery-2.2.4.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
-	 crossorigin="anonymous"></script>
-	<script src="js/vendor/bootstrap.min.js"></script>
-	<script src="js/jquery.ajaxchimp.min.js"></script>
-	<script src="js/jquery.nice-select.min.js"></script>
-	<script src="js/jquery.sticky.js"></script>
-	<script src="js/nouislider.min.js"></script>
-	<script src="js/countdown.js"></script>
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/owl.carousel.min.js"></script>
-	<!--gmaps Js-->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
-	<script src="js/gmaps.min.js"></script>
-	<script src="js/main.js"></script>
-</body>
-
-</html>
+	{% endblock content %}
