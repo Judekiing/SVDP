@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
+    'announcement.apps.AnnouncementConfig',
     'pages.apps.PagesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -123,5 +124,5 @@ USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR, 'staticfiles')]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 STATIC_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
