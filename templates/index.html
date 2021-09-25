@@ -14,7 +14,7 @@
 						<div class="row single-slide align-items-center d-flex">
 							<div class="col-lg-5 col-md-6">
 								<div class="banner-content">
-									<h1>Embrace <br>Your Faith</h1>
+									<h1>Get  <br>Involved</h1>
 									<p></p> 
 									<div class="add-bag d-flex align-items-center">
 										
@@ -31,11 +31,9 @@
 						<div class="row single-slide">
 							<div class="col-lg-5">
 								<div class="banner-content">
-									<h1>Stand <br>Strong</h1>
-									<!-- <p>We stay strong as a family in Christ Jesus, reasuring us as first born sons of the father</p> -->
+									<h1>Embrace <br>Your Faith</h1>
 									<div class="add-bag d-flex align-items-center">
-										<!-- <a class="add-btn" href=""><span class="lnr lnr-cross"></span></a>
-										<span class="add-text text-uppercase">Add to Bag</span> -->
+										
 									</div>
 								</div>
 							</div>
@@ -61,7 +59,7 @@
 					<img src="{% static 'img/elements/angel.jpg' %}" alt="" class="img-fluid">
 				</div>
 				<div class="col-md-9 mt-sm-20">
-					<h3 class="mb-30" style="text-align: center;" >Welcome to St. Vincent de Paul</h3>
+					<h3 class="mb-30" style="text-align: center;" >Virtual mass</h3>
 
 					<p>Welcome to the website for Saint Vincent De  Paul, fondly known as
 						 the Old Cathedral.
@@ -73,7 +71,7 @@
 				</div>
 			</div>
 		</div>
-		</div>
+	</div>
 
 	<!-- start features Area -->
 	<section class="features-area section_gap">
@@ -83,9 +81,9 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<a href="mass_times.html"><img src="{% static 'img/features/f-icon1.png' %}" alt=""></a>
+							<a href="{% url 'mass_times' %}"><img src="{% static 'img/features/f-icon1.png' %}" alt=""></a>
 						</div>
-						<a href="mass_times.html"><h6>Mass Times</h6></a>
+						<a href="{% url 'mass_times' %}"><h6>Mass Times</h6></a>
 						<p></p>
 					</div>
 				</div>
@@ -93,9 +91,11 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="{% static 'img/features/f-icon2.png' %}" alt="">
+							<a href="{% url 'annou' %}">
+								<img src="{% static 'img/features/f-icon2.png' %}" alt="">
+							</a>
 						</div>
-						<h6>Weekly buletin</h6>
+						<a href="{% url 'annou' %} "><h6>Weekly buletin</h6></a>
 						<p></p>
 					</div>
 				</div>
@@ -103,9 +103,9 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<img src="{% static 'img/features/f-icon3.png' %}" alt="">
+							<a href="{% url 'mass_times' %}"><img src="{% static 'img/features/f-icon3.png' %}" alt=""></a>
 						</div>
-						<h6>Office hours</h6>
+						<a href="{% url 'mass_times' %}"><h6>Office hours</h6></a>
 						<p></p>
 					</div>
 				</div>
@@ -113,9 +113,9 @@
 				<div class="col-lg-3 col-md-6 col-sm-6">
 					<div class="single-features">
 						<div class="f-icon">
-							<a href="daily_reading.html"><img src="{% static 'img/features/f-icon4.png' %}" alt=""></a>
+							<a href="{% url 'reading' %}"><img src="{% static 'img/features/f-icon4.png' %}" alt=""></a>
 						</div>
-						<a href="daily_reading.html"><h6>Daily Readings</h6></a>
+						<a href="{% url 'reading' %}"><h6>Daily Readings</h6></a>
 						<p></p>
 					</div>
 				</div>
@@ -145,10 +145,11 @@
 						<div class="col-lg-4 col-md-4">
 							<div class="single-deal">
 								<div class="overlay"></div>
-								<img class="img-fluid w-100" src="{% static 'img/category/altar' %}.jpg" alt="">
+								<img class="img-fluid w-100" src="{% static 'img/category/altar.jpg' %}" alt="">
 								<a href="{% static 'img/category/altar.jpg' %}" class="img-pop-up" target="_blank">
 									<div class="deal-details">
-										<h6 class="deal-title">Mass Center</h6>
+										<h6 class="deal-title">St. Damian <br>
+											<span class="text-muted">Out station</span></h6>
 									</div>
 								</a>
 							</div>
@@ -156,10 +157,11 @@
 						<div class="col-lg-4 col-md-4">
 							<div class="single-deal">
 								<div class="overlay"></div>
-								<img class="img-fluid w-100" src="{% static 'img/category/history.jpg' %}" alt="">
-								<a href="{% static 'img/category/history.PNG' %}" class="img-pop-up" target="_blank">
+								<img class="img-fluid w-100" src="{% static 'img/category/altar.jpg' %}" alt="">
+								<a href="{% static 'img/category/altar.' %}" class="img-pop-up" target="_blank">
 									<div class="deal-details">
-										<h6 class="deal-title">History</h6>
+										<h6 class="deal-title">St. Jacobs<br>
+											<span class="text-muted">Out station</span></h6>
 									</div>
 								</a>
 							</div>
@@ -180,8 +182,54 @@
 					<div class="row clock_sec clockdiv" id="clockdiv">
 						<div class="col-lg-12">
 							<h1>Annoucement!</h1>
-							<p>The church is One, Holy, Catholic and Apostolic.</p>
+
+							<div id="welcomeCarousel" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#welcomeCarousel" data-slide-to="0" class="active"></li>
+								<li data-target="#welcomeCarousel" data-slide-to="1" ></li>
+								<li data-target="#welcomeCarousel" data-slide-to="2" ></li>
+							</ol>
+							<div class="carousel-inner">
+								{% for post in all_posts_list %}
+								<div class="carousel-item active welcome-carousel-image1">
+									<div class="container">
+										<div class="carousel-caption">
+											<h1>{{post.title }}</h1>
+											<p>{{post.body}}</p>
+										</div>
+									</div>
+								</div>
+								{% endfor%}
+								
+								<div class="carousel-item welcome-carousel-image2">
+									<div class="container">
+										<div class="carousel-caption text-left">
+											<h1>Discover our pie subscription</h1>
+											<p>Our delicious pies delivered to your door. Every week</p>
+											<p><a class="btn btn-lg btn-primary" href="piesubscription.html" role="button">Sign up today</a></p>
+										</div>
+									</div>
+								</div>
+								<div class="carousel-item welcome-carousel-image3">
+									<div class="container">
+										<div class="carousel-caption text-right">
+											<h1>Browse the pies of summer</h1>
+											<p>Every season has its pies. Enjoy our summer fruit pies now.</p>
+											<p><a class="btn btn-lg btn-primary" href="fruits.html" role="button"> Fruits pies</a></p>
+										</div>
+									</div>
+								</div>
+							</div>
 						</div>
+						<a class="carousel-control-prev" href="#welcomeCarousel" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#welcomeCarousel" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
+					</div>
 						<div class="col-lg-12">
 							<div>
 								<div class="col-lg-3 col-md-6 col-sm-6">
@@ -209,7 +257,7 @@
 							</div> 
 						</div>
 					</div>
-					<a href="" class="primary-btn">More Info</a>
+					<a href="{% url 'annou' %}" class="primary-btn">More Info</a>
 				</div>
 				<div class="col-lg-6 no-padding exclusive-right">
 					<div class="active-exclusive-product-slider"> 
@@ -276,9 +324,8 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6 text-center">
 					<div class="section-title">
-						<h1>Activities of the Week</h1>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.</p>
+						<h1>Parish Programmes</h1>
+						<p> Main Church</p>
 					</div>
 				</div>
 			</div>
@@ -407,123 +454,5 @@
 	</section>
 	<!-- End related-product Area -->
 
-	<!-- start footer Area -->
-	<footer class="footer-area section_gap">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-4  col-md-6 col-sm-6">
-					<div class="single-footer-widget">
-						<h6>Contact</h6>
-						
-						<table>
-							<tr>
-								<td>
-									Very Rev. Fr. Cyril Ukaforo  
-								</td>
-								<td>
-									 (Parish Priest)
-								</td>
-							</tr>
-							<tr>
-								<td>
-									Rev. Fr. Philip-Mary Okorochukwu
-								</td>
-								<td>
-									 (Parochial Vicar)
-								</td>
-							</tr>
-							<tr>
-								<td>
-									Rev. Fr Franklin Iwunwa 
-								</td>
-								<td>
-									 (Parochial Vicar)
-								</td>
-							</tr>
-							<tr>
-								<td>
-									Catechist Gabriel Nkama 
-								</td>
-								<td>
-									 08140064044
-								</td>
-							</tr>
-							<tr>
-								<td>
-									Catechist Stephen Njoku 
-								</td>
-								<td>
-									 08064121552
-								</td>
-							</tr>
-						</table>
-					</div>
-				</div>
-				<div class="col-lg-3  col-md-6 col-sm-6">
-					<div class="single-footer-widget">
-						<h6>Annoucement</h6>
-						<p>Stay update with our latest</p>
-						<div class="" id="mc_embed_signup">
-
-							<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-							 method="get" class="form-inline">
-
-								<div class="d-flex flex-row">
-
-									<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '"
-									 required="" type="email">
-
-
-									<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
-									<div style="position: absolute; left: -5000px;">
-										<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-									</div>
-
-									<div class="col-lg-4 col-md-4">
-												<button class="bb-btn btn"><span class="lnr lnr-arrow-right"></span></button>
-											</div>
-								</div>
-								<div class="info"></div>
-							</form>
-						</div>
-					</div>
-				</div>
-				<!-- <div class="col-lg-3  col-md-6 col-sm-6">
-					<div class="single-footer-widget mail-chimp">
-						<h6 class="mb-20">Latest feeds</h6>
-						<ul class="instafeed d-flex flex-wrap">
-							<li><img src="img/i1.jpg" alt=""></li>
-							<li><img src="img/i2.jpg" alt=""></li>
-							<li><img src="img/i3.jpg" alt=""></li>
-							<li><img src="img/i4.jpg" alt=""></li>
-							<li><img src="img/i5.jpg" alt=""></li>
-							<li><img src="img/i6.jpg" alt=""></li>
-							<li><img src="img/i7.jpg" alt=""></li>
-							<li><img src="img/i8.jpg" alt=""></li>
-						</ul>
-					</div>
-				</div> -->
-			
-				<div class="col-lg-2 col-md-6 col-sm-6">
-					<div class="single-footer-widget">
-						<h6>Follow Us</h6>
-						<p>Let us be social</p>
-						<div class="footer-social d-flex align-items-center">
-							<a href="#"><i class="fa fa-facebook"></i></a>
-							<a href="#"><i class="fa fa-twitter"></i></a>
-							<a href="#"><i class="fa fa-dribbble"></i></a>
-							<a href="#"><i class="fa fa-behance"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="footer-bottom d-flex justify-content-center align-items-center flex-wrap">
-				<p class="footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Powered by CIA Tech <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
-			</div>
-		</div>
-	</footer>
-	<!-- End footer Area -->
+	
 	{% endblock content %}

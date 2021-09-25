@@ -1,7 +1,39 @@
-<h1> Announcement Page</h1>
+{% extends "base.html" %}
 
-<ul>
-    {% for post in all_posts_list %}
-        <li>{{ post }} </li>
-    {% endfor %}
-</ul>
+
+{% block content %}
+    <section class="banner-area mt-10">
+        <div class="container">
+			<div class="row fullscreen align-items-center justify-content-start">
+				<div class="col-lg-12">
+					<div class="active-banner-slider owl-carousel">
+						<!-- single-slide -->
+						<div class="row single-slide align-items-center d-flex">
+							<div class="col-lg-5 col-md-6">
+								<div class="banner-content">
+									<h1>Embrace <br>Your Faith</h1>
+									<p></p> 
+									<div class="add-bag d-flex align-items-center">
+										
+									</div>
+								</div>
+							</div>
+
+    </section>
+    <div class="container">
+        <h1> Announcement Page</h1>
+        
+            {% for post in all_posts_list %}
+                <div class="post-entry">
+                    <h2><a href="{% url 'annou_detail' post.pk %} ">{{ post.title }}</a></h2>
+                    <p>{{post.body}}</p>
+                </div>
+            {% endfor %}
+        </ul>
+    </div>
+
+{% endblock content %}
+
+
+
+

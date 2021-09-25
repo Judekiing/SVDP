@@ -11,8 +11,11 @@ class ReadingPageView(TemplateView):
 class MassPageView(TemplateView):
     template_name = 'mass_times.html'
 
-class BulletinPageView(TemplateView):
-    template_name = 'buletin.html'
+class OrganisationView(TemplateView):
+    template_name = 'society.html'
+
+class ReflectionsView(TemplateView):
+    template_name = 'buletn.html'
 
 
 
