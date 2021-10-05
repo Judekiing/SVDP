@@ -55,19 +55,20 @@
 		<div class="section_gap_75">
 			
 			<div class="row">
-				<div class="col-md-3">
-					<img src="{% static 'img/elements/angel.jpg' %}" alt="" class="img-fluid">
+				<div class="col-md-6">
+					<video class="img-fluid" controls="true" src="{% static 'video/Inspiration.mp4' %}"> </video>
+					<!-- <img src="{% static 'img/elements/angel.jpg' %}" alt="" class="img-fluid"> -->
 				</div>
-				<div class="col-md-9 mt-sm-20">
+				<div class="col-md-6 mt-sm-20">
 					<h3 class="mb-30" style="text-align: center;" >Virtual mass</h3>
 
 					<p>Welcome to the website for Saint Vincent De  Paul, fondly known as
-						 the Old Cathedral.
-						The Old Cathedral is one of the most historic buildings in Oyigbo with roots dating back 
-						to 1764 when St. Vincent founders Pierre Laclede and Auguste Chouteau dedicated a parcel of land to the 
-						people of St. Louis for religious purposes that was called the "church block". The present building is 
-						the fourth church to be erected on the site. Construction began in 1831 and the church was dedicated 
-						in 1834. Thanks for visiting our website. We hope you will come and pray with us soon!</p>
+						 the St. Vincent. <br>
+						Stay connected to the church and attend daily masses at  one of the most historic buildings in Oyigbo with roots dating back 
+						to 1993 when St. Vincent founders Pierre Laclede and Auguste Chouteau dedicated a parcel of land to the 
+						people of St. Vincent for religious purposes that was called the "church block". The present building is 
+						the seconnd church to be erected on the site. Construction began in 2009 and the church was dedicated 
+						 2014. Thanks for visiting our website. We hope you will come and pray with us soon!</p>
 				</div>
 			</div>
 		</div>
@@ -190,16 +191,14 @@
 								<li data-target="#welcomeCarousel" data-slide-to="2" ></li>
 							</ol>
 							<div class="carousel-inner">
-								{% for post in all_posts_list %}
 								<div class="carousel-item active welcome-carousel-image1">
 									<div class="container">
 										<div class="carousel-caption">
-											<h1>{{post.title }}</h1>
-											<p>{{post.body}}</p>
+											<h1>post title </h1>
+											<p>post body </p>
 										</div>
 									</div>
 								</div>
-								{% endfor%}
 								
 								<div class="carousel-item welcome-carousel-image2">
 									<div class="container">
@@ -303,16 +302,15 @@
 	<section class="brand-area section_gap">
 		<div class="container">
 			<div class="row">
-				<a class="col single-img" href="society.html">
-					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/1.png' %}" alt="">
+				<a class="col single-img" href="{% url 'org' %} ">
+				<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/1.png' %}" alt="{{Organisation.orgTitle}} ">
 				</a>
-				<a class="col single-img" href="society.html">
+				<a class="col single-img" href="{% url 'org' %}">
 					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/2.png' %}" alt="">
 				</a>
-				<a class="col single-img" href="society.html">
+				<a class="col single-img" href="{% url 'org' %}l">
 					<img class="img-fluid d-block mx-auto" src="{% static 'img/brand/3.png' %}" alt="">
 				</a>
-				
 			</div>
 		</div>
 	</section>

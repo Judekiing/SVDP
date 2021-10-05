@@ -1,19 +1,13 @@
 {% extends 'base.html' %}
-
-<!DOCTYPE html>
-<html lang="zxx" class="no-js">
+{% load static %}
 
 
-	<title>society|St. Vincent De Paul Oyigbo</title>
+<title>society|St. Vincent De Paul Oyigbo</title>
 
 
 {% block content%}
 
 <body id="category">
-
-	<!-- Start Header Area -->
-
-	<!-- End Header Area -->
 
 	<!-- Start Banner Area -->
 	<section class="banner-area organic-breadcrumb">
@@ -22,10 +16,10 @@
 				<div class="col-first">
 					<h1>Pius Societies</h1>
 					<nav class="d-flex align-items-center">
-						<a href="index.html">Home<span class="lnr lnr-arrow-right"></span></a>
+						<a href="{% url 'home' %}">Home<span class="lnr lnr-arrow-right"></span></a>
 						<a href="#">Societies</a>
-							<!-- <span class="lnr lnr-arrow-right"></span></a> -->
-						
+						<!-- <span class="lnr lnr-arrow-right"></span></a> -->
+
 					</nav>
 				</div>
 			</div>
@@ -38,69 +32,102 @@
 				<div class="sidebar-categories">
 					<div class="head">Organisations</div>
 					<ul class="main-categories">
-						<li class="main-nav-list"><a data-toggle="collapse" href="#cmo" aria-expanded="false" aria-controls="cmo"><span
-								 class="lnr lnr-arrow-right"></span>Catholic Men Organisation<span class="number">(53)</span></a>
-							<ul class="collapse" id="cmo" data-toggle="collapse" aria-expanded="false" aria-controls="cmo">
-								<li class="main-nav-list child"><a href="#">St. Damian<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Finbarr<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Anthony<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Jude<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Alexander<span class="number"></span></a></li>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#cmo" aria-expanded="false"
+								aria-controls="cmo"><span class="lnr lnr-arrow-right"></span>Catholic Men
+								Organisation<span class="number">(53)</span></a>
+							<ul class="collapse" id="cmo" data-toggle="collapse" aria-expanded="false"
+								aria-controls="cmo">
+								<li class="main-nav-list child"><a href="#">St. Damian<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Finbarr<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Anthony<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Jude<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Alexander<span
+											class="number"></span></a></li>
 							</ul>
 						</li>
 
-						<li class="main-nav-list"><a data-toggle="collapse" href="#cwo" aria-expanded="false" aria-controls="cwo"><span
-								 class="lnr lnr-arrow-right"></span>Catholic Women Org<span class="number">(53)</span></a>
-							<ul class="collapse" id="cwo" data-toggle="collapse" aria-expanded="false" aria-controls="cwo">
-								<li class="main-nav-list child"><a href="#">St. Priscilla<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Rita <span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Agatha<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Yvonne<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Cynthia<span class="number"></span></a></li>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#cwo" aria-expanded="false"
+								aria-controls="cwo"><span class="lnr lnr-arrow-right"></span>Catholic Women Org<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="cwo" data-toggle="collapse" aria-expanded="false"
+								aria-controls="cwo">
+								<li class="main-nav-list child"><a href="#">St. Priscilla<span
+											class="number"></span></a></li>
+								<li class="main-nav-list child"><a href="#">St. Rita <span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Agatha<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Yvonne<span class="number"></span></a>
+								</li>
+								<li class="main-nav-list child"><a href="#">St. Cynthia<span class="number"></span></a>
+								</li>
 							</ul>
 						</li>
-						<li class="main-nav-list"><a data-toggle="collapse" href="#cyon" aria-expanded="false" aria-controls="cyon"><span
-								 class="lnr lnr-arrow-right"></span>Catholic Youth Org<span class="number">(53)</span></a>
-							<ul class="collapse" id="cyon" data-toggle="collapse" aria-expanded="false" aria-controls="cyon">
-								<li class="main-nav-list child"><a href="#">St. Johnbosco<span class="number">(11)</span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Charles<span class="number">(11)</span></a></li>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#cyon" aria-expanded="false"
+								aria-controls="cyon"><span class="lnr lnr-arrow-right"></span>Catholic Youth Org<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="cyon" data-toggle="collapse" aria-expanded="false"
+								aria-controls="cyon">
+								<li class="main-nav-list child"><a href="#">St. Johnbosco<span
+											class="number">(11)</span></a></li>
+								<li class="main-nav-list child"><a href="#">St. Charles<span
+											class="number">(11)</span></a></li>
 							</ul>
 						</li>
-						<li class="main-nav-list"><a data-toggle="collapse" href="#pc" aria-expanded="false" aria-controls="pc"><span
-							class="lnr lnr-arrow-right"></span>Parish Council<span class="number">(53)</span></a>
-					   <ul class="collapse" id="pc" data-toggle="collapse" aria-expanded="false" aria-controls="pc">
-						   <li class="main-nav-list child"><a href="#">Priest<span class="number">(11)</span></a></li>
-					   </ul>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#pc" aria-expanded="false"
+								aria-controls="pc"><span class="lnr lnr-arrow-right"></span>Parish Council<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="pc" data-toggle="collapse" aria-expanded="false"
+								aria-controls="pc">
+								<li class="main-nav-list child"><a href="#">Priest<span class="number">(11)</span></a>
+								</li>
+							</ul>
 					</ul>
 					<div class="head">Browse Societies</div>
 					<ul class="main-categories">
-						<li class="main-nav-list"><a data-toggle="collapse" href="#shj" aria-expanded="false" aria-controls="shj"><span
-								 class="lnr lnr-arrow-right"></span>Sacred Heart of Jesus<span class="number">(53)</span></a>
-							<ul class="collapse" id="shj" data-toggle="collapse" aria-expanded="false" aria-controls="shj">
-								<li class="main-nav-list child"><a href="#">St. Damian<span class="number"></span></a></li>
-								
+						<li class="main-nav-list"><a data-toggle="collapse" href="#shj" aria-expanded="false"
+								aria-controls="shj"><span class="lnr lnr-arrow-right"></span>Sacred Heart of Jesus<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="shj" data-toggle="collapse" aria-expanded="false"
+								aria-controls="shj">
+								<li class="main-nav-list child"><a href="#">St. Damian<span class="number"></span></a>
+								</li>
+
 							</ul>
 						</li>
 
-						<li class="main-nav-list"><a data-toggle="collapse" href="#chidinma" aria-expanded="false" aria-controls="chidinma"><span
-								 class="lnr lnr-arrow-right"></span>Legion of Mary <span class="number">(53)</span></a>
-							<ul class="collapse" id="chidinma" data-toggle="collapse" aria-expanded="false" aria-controls="chidinma">
-								<li class="main-nav-list child"><a href="#">St. Priscilla<span class="number"></span></a></li>
-								<li class="main-nav-list child"><a href="#">St. Rita <span class="number"></span></a></li>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#chidinma" aria-expanded="false"
+								aria-controls="chidinma"><span class="lnr lnr-arrow-right"></span>Legion of Mary <span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="chidinma" data-toggle="collapse" aria-expanded="false"
+								aria-controls="chidinma">
+								<li class="main-nav-list child"><a href="#">St. Priscilla<span
+											class="number"></span></a></li>
+								<li class="main-nav-list child"><a href="#">St. Rita <span class="number"></span></a>
+								</li>
 							</ul>
 						</li>
-						<li class="main-nav-list"><a data-toggle="collapse" href="#ccrn" aria-expanded="false" aria-controls="ccrn"><span
-								 class="lnr lnr-arrow-right"></span>Catholic Charismatic<span class="number">(53)</span></a>
-							<ul class="collapse" id="ccrn" data-toggle="collapse" aria-expanded="false" aria-controls="ccrn">
+						<li class="main-nav-list"><a data-toggle="collapse" href="#ccrn" aria-expanded="false"
+								aria-controls="ccrn"><span class="lnr lnr-arrow-right"></span>Catholic Charismatic<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="ccrn" data-toggle="collapse" aria-expanded="false"
+								aria-controls="ccrn">
 								<!-- <li class="main-nav-list child"><a href="#">St. Johnbosco<span class="number">(11)</span></a></li>
 								<li class="main-nav-list child"><a href="#">St. Charles<span class="number">(11)</span></a></li> -->
 							</ul>
 						</li>
-						<li class="main-nav-list"><a data-toggle="collapse" href="#cooking" aria-expanded="false" aria-controls="cooking"><span
-							class="lnr lnr-arrow-right"></span>Altar boys<span class="number">(53)</span></a>
-					   <ul class="collapse" id="cooking" data-toggle="collapse" aria-expanded="false" aria-controls="cooking">
-						   <li class="main-nav-list child"><a href="#">Priest<span class="number">(11)</span></a></li>
-					   </ul>
+						<li class="main-nav-list"><a data-toggle="collapse" href="#cooking" aria-expanded="false"
+								aria-controls="cooking"><span class="lnr lnr-arrow-right"></span>Altar boys<span
+									class="number">(53)</span></a>
+							<ul class="collapse" id="cooking" data-toggle="collapse" aria-expanded="false"
+								aria-controls="cooking">
+								<li class="main-nav-list child"><a href="#">Priest<span class="number">(11)</span></a>
+								</li>
+							</ul>
 					</ul>
 				</div>
 				<!-- <div class="sidebar-filter mt-50">
@@ -180,35 +207,43 @@
 					<div class="row">
 						<!-- single product -->
 						<div class="col-lg-4 col-md-6">
+						
 							<div class="single-product">
-								<img class="img-fluid" src="img/product/CMO.jpg" alt="">
+								<img class="img-fluid" src="{% static 'img/product/CMO.jpg' %}" alt="">
 								<div class="product-details">
-									<h6>Catholic Men Organisation </h6>
+									{% for Organ in object_list %}
+										<h6>{{ organ.orgTitle }}</h6>
+									{% endfor %}
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.</p>
 									</div>
 									<div class="prd-bottom">
-										<a href="" class="social-info">
+										<a href=" " class="social-info">
 											<span class="lnr lnr-move"></span>
 											<p class="hover-text">view more</p>
 										</a>
 									</div>
 								</div>
 							</div>
+						
+						<div>
+							Nothing to see here
 						</div>
+						</div>
+						
 						<!-- single product -->
-						<div class="col-lg-4 col-md-6">
+						<!-- <div class="col-lg-4 col-md-6">
 							<div class="single-product">
-								<img class="img-fluid" src="img/product/cwo.jpg" alt="">
+								<img class="img-fluid" src="{% static 'img/product/cwo.jpg' %}" alt="">
 								<div class="product-details">
 									<h6>Catholic Women Organisation</h6>
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.</p>
-											
+
 										<h6 class="l-through"></h6>
 									</div>
 									<div class="prd-bottom">
@@ -219,19 +254,20 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!-- single product -->
-						<div class="col-lg-4 col-md-6">
+						<!-- <div class="col-lg-4 col-md-6">
 							<div class="single-product">
 								<img class="img-fluid" src="img/product/cyon.jpg" alt="">
 								<div class="product-details">
 									<h6>Catholic Youth Organisation of Nigeria</h6>
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.</p>
-											
-										<h6 class="l-through"></p>
+
+										<h6 class="l-through">
+											</p>
 									</div>
 									<div class="prd-bottom">
 										<a href="" class="social-info">
@@ -241,16 +277,16 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!-- single product -->
-						<div class="col-lg-4 col-md-6">
+						<!-- <div class="col-lg-4 col-md-6">
 							<div class="single-product">
 								<img class="img-fluid" src="img/product/cyon.jpg" alt="">
 								<div class="product-details">
 									<h6>Sacred Heart of Jesus</h6>
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.
 										</p>
 									</div>
@@ -262,16 +298,16 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!-- single product -->
-						<div class="col-lg-4 col-md-6">
+						<!-- <div class="col-lg-4 col-md-6">
 							<div class="single-product">
 								<img class="img-fluid" src="img/product/CMO.jpg" alt="">
 								<div class="product-details">
 									<h6>Legion of Mary</h6>
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.</h6>
 										</p>
 									</div>
@@ -283,18 +319,18 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<!-- single product -->
-						<div class="col-lg-4 col-md-6">
+						<!-- <div class="col-lg-4 col-md-6">
 							<div class="single-product">
 								<img class="img-fluid" src="img/product/cwo.jpg" alt="">
 								<div class="product-details">
 									<h6 style="color: rgb(0, 255, 255);">Catholic Charismatic Renewal of Nigeria</h6>
 									<div class="price">
-										<p>The span element doesn't mean anything on its own, 
-											but can be useful when used together with the global attributes, 
+										<p>The span element doesn't mean anything on its own,
+											but can be useful when used together with the global attributes,
 											e.g. class, lang, or dir. It represents its children.</p>
-											
+
 									</div>
 									<div class="prd-bottom">
 										<a href="" class="social-info">
@@ -304,7 +340,7 @@
 									</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</section>
 				<!-- End Best Seller -->
@@ -477,7 +513,8 @@
 					<div class="single-footer-widget">
 						<h6>About Us</h6>
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+							ut labore dolore
 							magna aliqua.
 						</p>
 					</div>
@@ -488,18 +525,22 @@
 						<p>Stay update with our latest</p>
 						<div class="" id="mc_embed_signup">
 
-							<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-							 method="get" class="form-inline">
+							<form target="_blank" novalidate="true"
+								action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
+								method="get" class="form-inline">
 
 								<div class="d-flex flex-row">
 
-									<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '"
-									 required="" type="email">
+									<input class="form-control" name="EMAIL" placeholder="Enter Email"
+										onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '"
+										required="" type="email">
 
 
-									<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+									<button class="click-btn btn btn-default"><i class="fa fa-long-arrow-right"
+											aria-hidden="true"></i></button>
 									<div style="position: absolute; left: -5000px;">
-										<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+										<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value=""
+											type="text">
 									</div>
 
 									<!-- <div class="col-lg-4 col-md-4">
@@ -540,10 +581,14 @@
 				</div>
 			</div>
 			<div class="footer-bottom d-flex justify-content-center align-items-center flex-wrap">
-				<p class="footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-</p>
+				<p class="footer-text m-0">
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+					Copyright &copy;
+					<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is
+					made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com"
+						target="_blank">Colorlib</a>
+					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+				</p>
 			</div>
 		</div>
 	</footer>
@@ -575,15 +620,19 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 							<div class="quick-view-content">
 								<div class="top">
 									<h3 class="head">Mill Oil 1000W Heater, White</h3>
-									<div class="price d-flex align-items-center"><span class="lnr lnr-tag"></span> <span class="ml-10">$149.99</span></div>
+									<div class="price d-flex align-items-center"><span class="lnr lnr-tag"></span> <span
+											class="ml-10">$149.99</span></div>
 									<div class="category">Category: <span>Household</span></div>
 									<div class="available">Availibility: <span>In Stock</span></div>
 								</div>
 								<div class="middle">
-									<p class="content">Mill Oil is an innovative oil filled radiator with the most modern technology. If you are
-										looking for something that can make your interior look awesome, and at the same time give you the pleasant
+									<p class="content">Mill Oil is an innovative oil filled radiator with the most
+										modern technology. If you are
+										looking for something that can make your interior look awesome, and at the same
+										time give you the pleasant
 										warm feeling during the winter.</p>
-									<a href="#" class="view-full">View full Details <span class="lnr lnr-arrow-right"></span></a>
+									<a href="#" class="view-full">View full Details <span
+											class="lnr lnr-arrow-right"></span></a>
 								</div>
 								<div class="bottom">
 									<div class="color-picker d-flex align-items-center">Color:
@@ -597,8 +646,10 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										Quantity:
 										<input type="text" class="quantity-amount ml-15" value="1" />
 										<div class="arrow-btn d-inline-flex flex-column">
-											<button class="increase arrow" type="button" title="Increase Quantity"><span class="lnr lnr-chevron-up"></span></button>
-											<button class="decrease arrow" type="button" title="Decrease Quantity"><span class="lnr lnr-chevron-down"></span></button>
+											<button class="increase arrow" type="button" title="Increase Quantity"><span
+													class="lnr lnr-chevron-up"></span></button>
+											<button class="decrease arrow" type="button" title="Decrease Quantity"><span
+													class="lnr lnr-chevron-down"></span></button>
 										</div>
 
 									</div>
@@ -619,8 +670,9 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 
 
 	<script src="js/vendor/jquery-2.2.4.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
-	 crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+		integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+		crossorigin="anonymous"></script>
 	<script src="js/vendor/bootstrap.min.js"></script>
 	<script src="js/jquery.ajaxchimp.min.js"></script>
 	<script src="js/jquery.nice-select.min.js"></script>
