@@ -7,7 +7,7 @@ from .models import Organ
 
 class OrgPageView(ListView):
     model = Organ
-    template_name = 'socie.html'
+    template_name = 'society.html'
     context_object_name = 'all_organ_list'
 
 
