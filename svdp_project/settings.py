@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['*']
 # Application definition
 
 INSTALLED_APPS = [
+    'apps.home',
     'organisations.apps.OrganisationsConfig',
     'announcement.apps.AnnouncementConfig',
     'pages.apps.PagesConfig',
@@ -55,6 +56,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'svdp_project.urls'
+LOGIN_REDIRECT_URL = 'home'
 
 TEMPLATES = [
     {
@@ -127,5 +129,3 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 STATIC_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
-LOGIN_REDIRECT_URL = 'home'
