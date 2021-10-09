@@ -1,4 +1,5 @@
 from django.db import models
+from django.db.models.fields import DurationField
 from django.urls import reverse
 from django.db.models.deletion import CASCADE
 
@@ -10,7 +11,9 @@ class Organ(models.Model):
     orgDescription = models.TextField(max_length=300)
     orgLogo = models.ImageField
     orgAnthem =models.TextField(max_length=300)
-    orgPurse = models.CharField(max_length=120)
+    orgPurse = models.ForeignKey( 
+        'Finance.purse', on_delete=CASCADE,
+    )
     orgGroups = models.CharField(max_length=120)
     orgPrerequisite = models.CharField(max_length=120)
     orgnMeetLoc = models.CharField(max_length=120)
@@ -45,11 +48,35 @@ class Meeting(models.Model):
     )
 
 
-# class Finace(models.Model):
-# money in the bank
-# cash at hand
-# month
-# expense
+class Finace(models.Model):
+    title = models.CharField(max_length=200)
+    report =models.CharField(max_length=500)
+    timeframe = models.DurationField
+    created_at = models.DateField
+    income = models.IntegerField
+    expenses = models.IntegerField
+    net_profit = models.IntegerField
+    bank = models.IntegerField
+    cash = models.IntegerField
+    purse = models.IntegerField
+    udated_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+
+class ProjectReport(models.Model):
+    title = models.CharField(max_length=200)
+    report =models.CharField(max_length=500)
+    timeframe = models.DurationField()
+    created_at = models.DateField
+    income = models.IntegerField
+    expenses = models.IntegerField
+    net_profit = models.IntegerField
+    bank = models.IntegerField
+    cash = models.IntegerField
+    purse = models.IntegerField
+    udated_at = models.DateTimeField(auto_now=False, auto_now_add=True)
+
+
+
+
 
 # class Welfare(models.Model):
 # new_users

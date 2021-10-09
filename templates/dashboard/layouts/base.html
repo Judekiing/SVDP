@@ -13,18 +13,20 @@
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 -->
+
+{% load static %}
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="apple-touch-icon" sizes="76x76" href="/static/assets/img/apple-icon.png">
-  <link rel="icon" type="image/png" href="/static/assets/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="{% static 'assets/img/apple-icon.png' %}">
+  <link rel="icon" type="image/png" href="{% static 'assets/img/favicon.png' %}">
   <link rel="canonical" href="https://appseed.us/admin-dashboards/django-dashboard-black">
   
   <title>
-    Django Dashboard Black - {% block title %}{% endblock %} | AppSeed
+    SVDP | {% block title %}{% endblock %}
   </title>
 
   <!--     Fonts and icons     -->
@@ -34,7 +36,6 @@
   <link href="/static/assets/css/nucleo-icons.css" rel="stylesheet" />
   <!-- CSS Files -->
   <link href="/static/assets/css/black-dashboard.css?v=1.0.0" rel="stylesheet" />
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-rtl/3.4.0/css/bootstrap-rtl.css" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="/static/assets/demo/demo.css" rel="stylesheet" />
 
@@ -43,14 +44,14 @@
 
 </head>
 
-<body class="rtl menu-on-right ">
+<body class="">
   <div class="wrapper">
 
-    {% include 'includes/sidebar-rtl.html' %}
+    {% include 'dashboard/includes/sidebar.html' %}
 
     <div class="main-panel">
 
-      {% include 'includes/navigation-rtl.html' %}
+      {% include 'dashboard/includes/navigation.html' %}
 
       <div class="content">
 
@@ -58,17 +59,17 @@
 
       </div>
 
-      {% include 'includes/footer.html' %}
+      {% include 'dashboard/includes/footer.html' %}
 
     </div>
     
   </div>
 
-  {% include 'includes/fixed-plugin.html' %}
+  {% include 'dashboard/includes/fixed-plugin.html' %}
 
-  {% include 'includes/scripts.html' %}
+  {% include 'dashboard/includes/scripts.html' %}
 
-  {% include 'includes/scripts-sidebar.html' %}
+  {% include 'dashboard/includes/scripts-sidebar.html' %}
 
   <!-- Specific Page JS goes HERE  -->
   {% block javascripts %}{% endblock javascripts %}

@@ -13,7 +13,7 @@ class OrgPageView(ListView):
 
 class OrgDetailView(DetailView):
     model = Organ
-    template_name = 'org_detail.html'
+    template_name = 'dashboard/home/index.html'
 
 
 class OrgCreate(CreateView):

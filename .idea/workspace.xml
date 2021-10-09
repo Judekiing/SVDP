@@ -2,236 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92101458-754a-42bc-b817-530e7a402697" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/12345.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/anime3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/anime6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/apple-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/bg5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/default-avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/emilyz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/img_3115.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/james.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/mike.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/img/now-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/authentication/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/home/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/css/nucleo-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/demo/demo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/demo/demo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/black-dashboard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/black-dashboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/core/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/core/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/core/popper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/plugins/bootstrap-notify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/plugins/chartjs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/js/plugins/perfect-scrollbar.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_breadcrumb.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_custom-forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_input-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_popover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_root.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_spinners.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_toasts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_transitions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-reboot.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_badge.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_box-shadow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_breakpoints.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_caret.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_deprecate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_hover.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_reset-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-hide.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-truncate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_transition.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_borders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_display.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_flex.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_float.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_overflow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_screenreaders.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_shadows.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_stretched-link.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/vendor/_rfs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_card.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_checkboxes-radio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_example-pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_fixed-plugin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_images.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_input-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_misc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_rtl.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_sidebar-and-main-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_white-content.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-chart.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-map.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-plain.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-task.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-user.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_alert.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_icon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_modals.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_page-header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_popovers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_vendor-prefixes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_wizard.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/opacity.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_backgrounds.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_floating.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_helper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_shadows.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_transform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-animate-bootstrap-notify.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-perfect-scrollbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/plugins/_plugin-perfect-scrollbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/static/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/accounts/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/accounts/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-403.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-rtl-support.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/page-user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/ui-icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/ui-maps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/ui-notifications.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/ui-tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/home/ui-typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/fixed-plugin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/navigation-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/navigation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/scripts-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/scripts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/sidebar-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/includes/sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/layouts/base-rtl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/apps/templates/layouts/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/includes/scripts.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/templates/footer.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.css" afterPath="$PROJECT_DIR$/static/assets/css/black-dashboard.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.css.map" afterPath="$PROJECT_DIR$/static/assets/css/black-dashboard.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/css/black-dashboard.min.css" afterPath="$PROJECT_DIR$/static/assets/css/black-dashboard.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/css/nucleo-icons.css" afterPath="$PROJECT_DIR$/static/assets/css/nucleo-icons.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/demo/demo.css" afterPath="$PROJECT_DIR$/static/assets/demo/demo.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/demo/demo.js" afterPath="$PROJECT_DIR$/static/assets/demo/demo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.eot" afterPath="$PROJECT_DIR$/static/assets/fonts/nucleo.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.ttf" afterPath="$PROJECT_DIR$/static/assets/fonts/nucleo.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.woff" afterPath="$PROJECT_DIR$/static/assets/fonts/nucleo.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/fonts/nucleo.woff2" afterPath="$PROJECT_DIR$/static/assets/fonts/nucleo.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/gulpfile.js" afterPath="$PROJECT_DIR$/static/assets/gulpfile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/12345.png" afterPath="$PROJECT_DIR$/static/assets/img/12345.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/anime3.png" afterPath="$PROJECT_DIR$/static/assets/img/anime3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/anime6.png" afterPath="$PROJECT_DIR$/static/assets/img/anime6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/apple-icon.png" afterPath="$PROJECT_DIR$/static/assets/img/apple-icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/bg5.jpg" afterPath="$PROJECT_DIR$/static/assets/img/bg5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/default-avatar.png" afterPath="$PROJECT_DIR$/static/assets/img/default-avatar.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/emilyz.jpg" afterPath="$PROJECT_DIR$/static/assets/img/emilyz.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/favicon.png" afterPath="$PROJECT_DIR$/static/assets/img/favicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/header.jpg" afterPath="$PROJECT_DIR$/static/assets/img/header.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/img_3115.jpg" afterPath="$PROJECT_DIR$/static/assets/img/img_3115.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/james.jpg" afterPath="$PROJECT_DIR$/static/assets/img/james.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/mike.jpg" afterPath="$PROJECT_DIR$/static/assets/img/mike.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/img/now-logo.png" afterPath="$PROJECT_DIR$/static/assets/img/now-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/black-dashboard.js" afterPath="$PROJECT_DIR$/static/assets/js/black-dashboard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/black-dashboard.min.js" afterPath="$PROJECT_DIR$/static/assets/js/black-dashboard.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/core/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/assets/js/core/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/core/jquery.min.js" afterPath="$PROJECT_DIR$/static/assets/js/core/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/core/popper.min.js" afterPath="$PROJECT_DIR$/static/assets/js/core/popper.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/plugins/bootstrap-notify.js" afterPath="$PROJECT_DIR$/static/assets/js/plugins/bootstrap-notify.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/plugins/chartjs.min.js" afterPath="$PROJECT_DIR$/static/assets/js/plugins/chartjs.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/js/plugins/perfect-scrollbar.jquery.min.js" afterPath="$PROJECT_DIR$/static/assets/js/plugins/perfect-scrollbar.jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/package.json" afterPath="$PROJECT_DIR$/static/assets/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/_buttons.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/_typography.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/_typography.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_alert.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_alert.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_badge.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_badge.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_breadcrumb.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_breadcrumb.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_button-group.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_button-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_card.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_card.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_carousel.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_carousel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_close.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_close.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_code.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_custom-forms.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_custom-forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_dropdown.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_dropdown.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_functions.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_functions.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_grid.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_images.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_images.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_input-group.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_input-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_jumbotron.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_list-group.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_media.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_media.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_mixins.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_modal.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_modal.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_nav.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_nav.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_navbar.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_navbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_pagination.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_popover.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_popover.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_print.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_progress.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_progress.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_reboot.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_reboot.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_root.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_root.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_spinners.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_spinners.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_tables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_toasts.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_toasts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_tooltip.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_tooltip.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_transitions.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_transitions.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_type.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_type.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_utilities.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-grid.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/bootstrap-grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-reboot.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/bootstrap-reboot.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/bootstrap.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_alert.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_alert.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_background-variant.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_badge.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_badge.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_border-radius.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_box-shadow.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_box-shadow.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_breakpoints.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_breakpoints.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_caret.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_caret.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_clearfix.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_deprecate.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_deprecate.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_float.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_float.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_gradients.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_grid-framework.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_hover.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_hover.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_lists.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_lists.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_nav-divider.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_reset-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_resize.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_screen-reader.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_screen-reader.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_size.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_table-row.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-hide.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_text-hide.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-truncate.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_text-truncate.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_transition.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_transition.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_visibility.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/mixins/_visibility.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_align.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_align.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_background.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_background.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_borders.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_borders.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_clearfix.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_clearfix.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_display.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_display.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_embed.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_embed.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_flex.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_flex.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_float.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_float.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_overflow.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_overflow.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_position.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_position.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_screenreaders.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_screenreaders.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_shadows.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_shadows.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_sizing.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_sizing.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_spacing.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_spacing.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_stretched-link.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_stretched-link.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_text.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_visibility.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/utilities/_visibility.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/bootstrap/vendor/_rfs.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/bootstrap/vendor/_rfs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_alerts.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_buttons.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_card.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_card.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_checkboxes-radio.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_checkboxes-radio.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_dropdown.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_dropdown.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_example-pages.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_example-pages.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_fixed-plugin.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_fixed-plugin.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_footer.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_footer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_forms.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_functions.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_functions.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_images.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_images.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_input-group.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_input-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_misc.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_misc.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_mixins.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_modal.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_modal.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_navbar.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_navbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_rtl.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_rtl.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_sidebar-and-main-panel.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_sidebar-and-main-panel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_tables.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_tables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_type.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_type.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_utilities.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_variables.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/_white-content.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/_white-content.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-chart.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/cards/_card-chart.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-map.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/cards/_card-map.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-plain.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/cards/_card-plain.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-task.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/cards/_card-task.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/cards/_card-user.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/cards/_card-user.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_alert.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_alert.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_background-variant.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_badges.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_badges.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_dropdown.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_dropdown.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_forms.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_icon.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_icon.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_inputs.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_inputs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_modals.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_modals.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_page-header.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_page-header.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_popovers.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_popovers.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_vendor-prefixes.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_vendor-prefixes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/_wizard.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/_wizard.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/mixins/opacity.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/mixins/opacity.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_backgrounds.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_backgrounds.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_floating.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_floating.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_helper.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_helper.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_position.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_position.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_shadows.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_shadows.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_sizing.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_sizing.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_spacing.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_spacing.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_text.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/utilities/_transform.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/utilities/_transform.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-animate-bootstrap-notify.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/vendor/_plugin-animate-bootstrap-notify.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-perfect-scrollbar.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/custom/vendor/_plugin-perfect-scrollbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/assets/scss/black-dashboard/plugins/_plugin-perfect-scrollbar.scss" afterPath="$PROJECT_DIR$/static/assets/scss/black-dashboard/plugins/_plugin-perfect-scrollbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/favicon.ico" afterPath="$PROJECT_DIR$/static/assets/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/static/sitemap.xml" afterPath="$PROJECT_DIR$/static/assets/sitemap.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/accounts/login.html" afterPath="$PROJECT_DIR$/templates/dashboard/accounts/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/accounts/register.html" afterPath="$PROJECT_DIR$/templates/dashboard/accounts/register.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/login.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/login.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-403.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-403.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-404.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-404.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-500.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-500.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-blank.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-blank.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-rtl-support.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-rtl-support.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/page-user.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/page-user.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/register.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/register.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/ui-icons.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/ui-icons.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/ui-maps.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/ui-maps.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/ui-notifications.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/ui-notifications.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/ui-tables.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/ui-tables.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/home/ui-typography.html" afterPath="$PROJECT_DIR$/templates/dashboard/home/ui-typography.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/fixed-plugin.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/fixed-plugin.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/footer.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/footer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/navigation-rtl.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/navigation-rtl.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/navigation.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/navigation.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/scripts-sidebar.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/scripts-sidebar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/scripts.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/scripts.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/sidebar-rtl.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/sidebar-rtl.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/includes/sidebar.html" afterPath="$PROJECT_DIR$/templates/dashboard/includes/sidebar.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/layouts/base-rtl.html" afterPath="$PROJECT_DIR$/templates/dashboard/layouts/base-rtl.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/apps/templates/layouts/base.html" afterPath="$PROJECT_DIR$/templates/dashboard/layouts/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django-dashboard-black" afterPath="$PROJECT_DIR$/django-dashboard-black" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svdp_project/settings.py" afterPath="$PROJECT_DIR$/svdp_project/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/apps/home/views.py" afterPath="$PROJECT_DIR$/apps/home/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/organisations/views.py" afterPath="$PROJECT_DIR$/organisations/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svdp_project/urls.py" afterPath="$PROJECT_DIR$/svdp_project/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base2.html" afterPath="$PROJECT_DIR$/templates/base2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -253,8 +241,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-238">
-              <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+            <state relative-caret-position="391">
+              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -266,7 +254,7 @@
             <state relative-caret-position="380">
               <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
               <folding>
-                <marker date="1633687839669" expanded="true" signature="723:1034" ph="..." />
+                <marker date="1633706572491" expanded="true" signature="723:1044" ph="..." />
               </folding>
             </state>
           </provider>
@@ -278,8 +266,8 @@
             <state relative-caret-position="1480">
               <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
               <folding>
-                <marker date="1633099836553" expanded="true" signature="4199:11165" ph="..." />
-                <marker date="1633099836553" expanded="true" signature="10363:10398" ph="..." />
+                <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
+                <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
               </folding>
             </state>
           </provider>
@@ -299,68 +287,68 @@
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="7340">
-              <caret line="375" column="30" lean-forward="false" selection-start-line="375" selection-start-column="30" selection-end-line="375" selection-end-column="30" />
+              <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
               <folding>
-                <marker date="1633620979484" expanded="true" signature="9326:9371" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="9326:10728" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="9326:10740" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="9425:10709" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="9476:10698" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="9530:10052" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="10107:10684" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="10844:11423" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="10870:11411" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="10891:11402" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="10945:10951" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11094:11192" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11290:11387" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11606:16104" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11632:16092" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11676:11840" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11715:11830" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11748:11819" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11861:16083" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11888:15853" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11911:15842" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="11964:12341" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12015:12328" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12124:12314" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12200:12299" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12394:12775" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12445:12762" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12554:12748" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12634:12733" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12828:13207" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12879:13194" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="12988:13180" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13066:13165" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13260:13649" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13311:13636" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13420:13622" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13508:13607" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13702:14083" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13753:14070" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13862:14056" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="13942:14041" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14136:14522" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14187:14509" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14296:14495" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14381:14480" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14569:14956" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14620:14943" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14729:14929" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="14815:14914" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15003:15392" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15054:15379" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15163:15365" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15251:15350" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15439:15830" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15490:15817" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15599:15803" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15689:15788" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15880:16073" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15909:16062" ph="..." />
-                <marker date="1633620979484" expanded="true" signature="15944:16050" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9369:10771" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9369:10783" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9468:10752" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9519:10741" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="9573:10095" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="10150:10727" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="10887:11466" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="10913:11454" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="10934:11445" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="10988:10994" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11137:11235" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11333:11430" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11649:16147" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11675:16135" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11719:11883" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11758:11873" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11791:11862" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11904:16126" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11931:15896" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="11954:15885" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12007:12384" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12058:12371" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12167:12357" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12243:12342" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12437:12818" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12488:12805" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12597:12791" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12677:12776" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12871:13250" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="12922:13237" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13031:13223" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13109:13208" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13303:13692" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13354:13679" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13463:13665" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13551:13650" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13745:14126" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13796:14113" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13905:14099" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="13985:14084" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14179:14565" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14230:14552" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14339:14538" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14424:14523" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14612:14999" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14663:14986" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14772:14972" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="14858:14957" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15046:15435" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15097:15422" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15206:15408" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15294:15393" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15482:15873" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15533:15860" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15642:15846" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15732:15831" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15923:16116" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15952:16105" ph="..." />
+                <marker date="1633716864387" expanded="true" signature="15987:16093" ph="..." />
               </folding>
             </state>
           </provider>
@@ -415,9 +403,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="699" />
-    <option name="height" value="775" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -474,7 +463,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="django-dashboard-black" />
+              <option name="myItemId" value="apps" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -490,6 +479,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hp\Jude Okorie\SVDP Project\karma\SVDP\SVDP\templates\dashboard" />
       <recent name="C:\Users\Hp\Jude Okorie\SVDP Project\karma\SVDP\SVDP\" />
       <recent name="C:\Users\Hp\Jude Okorie\SVDP Project\karma\SVDP\SVDP\templates\registration" />
     </key>
@@ -746,15 +736,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="699" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12445095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48091602" sideWeight="0.22547585" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.1522694" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.48091602" sideWeight="0.77452415" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.8477306" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -803,7 +794,7 @@
         <state relative-caret-position="400">
           <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <marker date="1633687839669" expanded="true" signature="723:1034" ph="..." />
+            <marker date="1633706572491" expanded="true" signature="723:1044" ph="..." />
           </folding>
         </state>
       </provider>
@@ -813,8 +804,8 @@
         <state relative-caret-position="1480">
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
-            <marker date="1633099836553" expanded="true" signature="4199:11165" ph="..." />
-            <marker date="1633099836553" expanded="true" signature="10363:10398" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -832,66 +823,66 @@
         <state relative-caret-position="7340">
           <caret line="367" column="30" lean-forward="false" selection-start-line="367" selection-start-column="30" selection-end-line="367" selection-end-column="30" />
           <folding>
-            <marker date="1633620979484" expanded="true" signature="9326:9371" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10728" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10740" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9425:10709" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9476:10698" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9530:10052" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10107:10684" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10844:11423" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10870:11411" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10891:11402" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10945:10951" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11094:11192" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11290:11387" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11606:16104" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11632:16092" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11676:11840" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11715:11830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11748:11819" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11861:16083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11888:15853" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11911:15842" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11964:12341" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12015:12328" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12124:12314" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12200:12299" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12394:12775" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12445:12762" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12554:12748" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12634:12733" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12828:13207" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12879:13194" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12988:13180" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13066:13165" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13260:13649" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13311:13636" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13420:13622" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13508:13607" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13702:14083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13753:14070" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13862:14056" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13942:14041" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14136:14522" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14187:14509" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14296:14495" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14381:14480" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14569:14956" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14620:14943" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14729:14929" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14815:14914" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15003:15392" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15054:15379" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15163:15365" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15251:15350" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15439:15830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15490:15817" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15599:15803" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15689:15788" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15880:16073" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15909:16062" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15944:16050" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10771" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10783" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9468:10752" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9519:10741" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9573:10095" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10150:10727" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10887:11466" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10913:11454" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10934:11445" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10988:10994" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11137:11235" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11333:11430" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11649:16147" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11675:16135" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11719:11883" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11758:11873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11791:11862" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11904:16126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11931:15896" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11954:15885" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12007:12384" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12058:12371" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12167:12357" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12243:12342" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12437:12818" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12488:12805" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12597:12791" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12677:12776" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12871:13250" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12922:13237" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13031:13223" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13109:13208" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13303:13692" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13354:13679" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13463:13665" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13551:13650" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13745:14126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13796:14113" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13905:14099" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13985:14084" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14179:14565" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14230:14552" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14339:14538" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14424:14523" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14612:14999" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14663:14986" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14772:14972" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14858:14957" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15046:15435" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15097:15422" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15206:15408" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15294:15393" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15482:15873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15533:15860" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15642:15846" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15732:15831" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15923:16116" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15952:16105" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15987:16093" ph="..." />
           </folding>
         </state>
       </provider>
@@ -925,7 +916,7 @@
         <state relative-caret-position="400">
           <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <marker date="1633687839669" expanded="true" signature="723:1034" ph="..." />
+            <marker date="1633706572491" expanded="true" signature="723:1044" ph="..." />
           </folding>
         </state>
       </provider>
@@ -935,8 +926,8 @@
         <state relative-caret-position="1480">
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
-            <marker date="1633099836553" expanded="true" signature="4199:11165" ph="..." />
-            <marker date="1633099836553" expanded="true" signature="10363:10398" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -954,66 +945,66 @@
         <state relative-caret-position="7380">
           <caret line="369" column="30" lean-forward="true" selection-start-line="369" selection-start-column="30" selection-end-line="369" selection-end-column="30" />
           <folding>
-            <marker date="1633620979484" expanded="true" signature="9326:9371" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10728" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10740" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9425:10709" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9476:10698" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9530:10052" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10107:10684" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10844:11423" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10870:11411" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10891:11402" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10945:10951" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11094:11192" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11290:11387" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11606:16104" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11632:16092" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11676:11840" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11715:11830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11748:11819" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11861:16083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11888:15853" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11911:15842" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11964:12341" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12015:12328" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12124:12314" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12200:12299" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12394:12775" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12445:12762" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12554:12748" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12634:12733" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12828:13207" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12879:13194" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12988:13180" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13066:13165" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13260:13649" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13311:13636" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13420:13622" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13508:13607" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13702:14083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13753:14070" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13862:14056" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13942:14041" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14136:14522" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14187:14509" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14296:14495" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14381:14480" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14569:14956" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14620:14943" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14729:14929" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14815:14914" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15003:15392" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15054:15379" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15163:15365" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15251:15350" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15439:15830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15490:15817" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15599:15803" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15689:15788" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15880:16073" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15909:16062" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15944:16050" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10771" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10783" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9468:10752" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9519:10741" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9573:10095" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10150:10727" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10887:11466" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10913:11454" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10934:11445" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10988:10994" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11137:11235" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11333:11430" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11649:16147" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11675:16135" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11719:11883" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11758:11873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11791:11862" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11904:16126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11931:15896" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11954:15885" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12007:12384" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12058:12371" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12167:12357" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12243:12342" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12437:12818" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12488:12805" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12597:12791" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12677:12776" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12871:13250" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12922:13237" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13031:13223" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13109:13208" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13303:13692" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13354:13679" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13463:13665" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13551:13650" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13745:14126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13796:14113" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13905:14099" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13985:14084" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14179:14565" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14230:14552" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14339:14538" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14424:14523" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14612:14999" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14663:14986" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14772:14972" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14858:14957" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15046:15435" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15097:15422" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15206:15408" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15294:15393" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15482:15873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15533:15860" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15642:15846" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15732:15831" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15923:16116" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15952:16105" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15987:16093" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1055,8 +1046,8 @@
         <state relative-caret-position="1480">
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
-            <marker date="1633099836553" expanded="true" signature="4199:11165" ph="..." />
-            <marker date="1633099836553" expanded="true" signature="10363:10398" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
+            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1066,7 +1057,7 @@
         <state relative-caret-position="380">
           <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
           <folding>
-            <marker date="1633687839669" expanded="true" signature="723:1034" ph="..." />
+            <marker date="1633706572491" expanded="true" signature="723:1044" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1082,68 +1073,68 @@
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7340">
-          <caret line="375" column="30" lean-forward="false" selection-start-line="375" selection-start-column="30" selection-end-line="375" selection-end-column="30" />
+          <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
           <folding>
-            <marker date="1633620979484" expanded="true" signature="9326:9371" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10728" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9326:10740" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9425:10709" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9476:10698" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="9530:10052" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10107:10684" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10844:11423" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10870:11411" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10891:11402" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="10945:10951" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11094:11192" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11290:11387" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11606:16104" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11632:16092" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11676:11840" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11715:11830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11748:11819" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11861:16083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11888:15853" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11911:15842" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="11964:12341" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12015:12328" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12124:12314" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12200:12299" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12394:12775" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12445:12762" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12554:12748" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12634:12733" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12828:13207" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12879:13194" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="12988:13180" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13066:13165" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13260:13649" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13311:13636" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13420:13622" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13508:13607" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13702:14083" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13753:14070" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13862:14056" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="13942:14041" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14136:14522" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14187:14509" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14296:14495" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14381:14480" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14569:14956" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14620:14943" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14729:14929" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="14815:14914" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15003:15392" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15054:15379" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15163:15365" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15251:15350" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15439:15830" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15490:15817" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15599:15803" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15689:15788" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15880:16073" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15909:16062" ph="..." />
-            <marker date="1633620979484" expanded="true" signature="15944:16050" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10771" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10783" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9468:10752" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9519:10741" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9573:10095" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10150:10727" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10887:11466" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10913:11454" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10934:11445" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10988:10994" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11137:11235" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11333:11430" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11649:16147" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11675:16135" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11719:11883" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11758:11873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11791:11862" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11904:16126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11931:15896" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11954:15885" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12007:12384" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12058:12371" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12167:12357" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12243:12342" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12437:12818" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12488:12805" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12597:12791" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12677:12776" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12871:13250" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12922:13237" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13031:13223" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13109:13208" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13303:13692" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13354:13679" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13463:13665" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13551:13650" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13745:14126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13796:14113" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13905:14099" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13985:14084" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14179:14565" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14230:14552" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14339:14538" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14424:14523" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14612:14999" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14663:14986" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14772:14972" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14858:14957" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15046:15435" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15097:15422" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15206:15408" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15294:15393" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15482:15873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15533:15860" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15642:15846" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15732:15831" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15923:16116" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15952:16105" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15987:16093" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1166,8 +1157,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-238">
-          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+        <state relative-caret-position="391">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
         </state>
       </provider>
