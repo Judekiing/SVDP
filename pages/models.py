@@ -14,5 +14,5 @@ class Reflections(models.Model):
     def __str__(self):
         return self.title
     
-    # def get_absolute_url(self):
-        # return reverse('reflect_detail', args=[self.id])
+    def get_absolute_url(self):
+        return reverse('reflect_detail', args=[self.id])

@@ -11,9 +11,9 @@ class Organ(models.Model):
     orgDescription = models.TextField(max_length=300)
     orgLogo = models.ImageField
     orgAnthem =models.TextField(max_length=300)
-    orgPurse = models.ForeignKey( 
-        'Finance.purse', on_delete=CASCADE,
-    )
+    # orgPurse = models.ForeignKey( 
+    #     'Finance.purse', on_delete=CASCADE,
+    # )
     orgGroups = models.CharField(max_length=120)
     orgPrerequisite = models.CharField(max_length=120)
     orgnMeetLoc = models.CharField(max_length=120)

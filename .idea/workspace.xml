@@ -2,7 +2,239 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92101458-754a-42bc-b817-530e7a402697" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/forms.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/authentication/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/admin.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/migrations/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/home/views.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/css/black-dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/css/black-dashboard.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/css/black-dashboard.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/css/nucleo-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/demo/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/demo/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/fonts/nucleo.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/fonts/nucleo.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/fonts/nucleo.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/fonts/nucleo.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/12345.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/anime3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/anime6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/default-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/emilyz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/img_3115.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/james.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/mike.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/img/now-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/black-dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/black-dashboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/core/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/core/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/core/popper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/plugins/bootstrap-notify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/plugins/chartjs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/js/plugins/perfect-scrollbar.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_breadcrumb.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_button-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_custom-forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_nav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_popover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_progress.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_root.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_spinners.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_toasts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap-reboot.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_badge.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_box-shadow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_caret.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_deprecate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_hover.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_lists.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-hide.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_text-truncate.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_transition.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/mixins/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_background.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_borders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_display.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_flex.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_float.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_screenreaders.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_shadows.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_stretched-link.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/utilities/_visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/bootstrap/vendor/_rfs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_checkboxes-radio.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_example-pages.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_fixed-plugin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_images.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_input-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_misc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_rtl.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_sidebar-and-main-panel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/_white-content.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/cards/_card-chart.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/cards/_card-map.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/cards/_card-plain.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/cards/_card-task.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/cards/_card-user.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_alert.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_icon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_inputs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_page-header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/_wizard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/mixins/opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_backgrounds.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_floating.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_helper.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_position.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_shadows.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_sizing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_spacing.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/utilities/_transform.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-animate-bootstrap-notify.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/custom/vendor/_plugin-perfect-scrollbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/assets/scss/black-dashboard/plugins/_plugin-perfect-scrollbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/static/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/accounts/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/accounts/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-403.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-rtl-support.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/page-user.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/register.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/ui-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/ui-maps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/ui-notifications.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/ui-tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/home/ui-typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/fixed-plugin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/navigation-rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/scripts-sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/sidebar-rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/includes/sidebar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/layouts/base-rtl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/templates/layouts/base.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/django-dashboard-black/requirements.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/django-dashboard-black/apps/__init__.py" afterPath="$PROJECT_DIR$/django-dashboard-black/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/django-dashboard-black" afterPath="$PROJECT_DIR$/django-dashboard-black" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/organisations/models.py" afterPath="$PROJECT_DIR$/organisations/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/models.py" afterPath="$PROJECT_DIR$/pages/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,12 +252,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+            <state relative-caret-position="2400">
+              <caret line="120" column="13" lean-forward="false" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,7 +293,6 @@
               <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
               <folding>
                 <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
-                <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
               </folding>
             </state>
           </provider>
@@ -68,7 +311,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7340">
+            <state relative-caret-position="7520">
               <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
               <folding>
                 <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
@@ -175,6 +418,7 @@
         <option value="$PROJECT_DIR$/svdp_project/urls.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/svdp_project/settings.py" />
+        <option value="$PROJECT_DIR$/pages/models.py" />
       </list>
     </option>
   </component>
@@ -190,7 +434,7 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -245,7 +489,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="apps" />
+              <option name="myItemId" value="pages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -522,11 +766,11 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12445095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.1522694" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.1566618" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.8477306" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4743976" sideWeight="0.8433382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -564,6 +808,137 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="120" column="13" lean-forward="false" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svdp_project/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <marker date="1633706572491" expanded="true" signature="723:1044" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1480">
+          <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
+          <folding>
+            <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7520">
+          <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
+          <folding>
+            <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10771" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9369:10783" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9468:10752" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9519:10741" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="9573:10095" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10150:10727" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10887:11466" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10913:11454" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10934:11445" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="10988:10994" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11137:11235" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11333:11430" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11649:16147" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11675:16135" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11719:11883" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11758:11873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11791:11862" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11904:16126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11931:15896" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="11954:15885" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12007:12384" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12058:12371" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12167:12357" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12243:12342" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12437:12818" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12488:12805" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12597:12791" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12677:12776" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12871:13250" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="12922:13237" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13031:13223" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13109:13208" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13303:13692" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13354:13679" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13463:13665" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13551:13650" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13745:14126" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13796:14113" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13905:14099" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="13985:14084" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14179:14565" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14230:14552" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14339:14538" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14424:14523" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14612:14999" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14663:14986" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14772:14972" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="14858:14957" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15046:15435" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15097:15422" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15206:15408" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15294:15393" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15482:15873" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15533:15860" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15642:15846" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15732:15831" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15923:16116" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15952:16105" ph="..." />
+            <marker date="1633716864387" expanded="true" signature="15987:16093" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/announcement/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2600">
           <caret line="130" column="7" lean-forward="false" selection-start-line="130" selection-start-column="7" selection-end-line="130" selection-end-column="7" />
           <folding />
@@ -586,7 +961,6 @@
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
             <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
-            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -708,7 +1082,6 @@
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
             <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
-            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -828,7 +1201,6 @@
           <caret line="74" column="99" lean-forward="false" selection-start-line="74" selection-start-column="99" selection-end-line="74" selection-end-column="99" />
           <folding>
             <marker date="1633712643775" expanded="true" signature="4199:4928" ph="..." />
-            <marker date="1633712643775" expanded="true" signature="10363:10398" ph="..." />
           </folding>
         </state>
       </provider>
@@ -853,7 +1225,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7340">
+        <state relative-caret-position="7520">
           <caret line="376" column="30" lean-forward="false" selection-start-line="376" selection-start-column="30" selection-end-line="376" selection-end-column="30" />
           <folding>
             <marker date="1633716864387" expanded="true" signature="9369:9414" ph="..." />
@@ -938,9 +1310,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/svdp_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        <state relative-caret-position="2400">
+          <caret line="120" column="13" lean-forward="false" selection-start-line="120" selection-start-column="13" selection-end-line="120" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
